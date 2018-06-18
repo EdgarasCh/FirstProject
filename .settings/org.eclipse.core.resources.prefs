@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/entity/Menu.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/createMenu.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/views/editMenu.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/views/menuList.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/views/nextPage.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/views/showMenu.ftl=UTF-8
